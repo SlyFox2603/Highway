@@ -1,6 +1,8 @@
 # Highway
 A simple game created in Python with Pygame about driving a car, collecting coins, and dodging oncoming vehicles.
 
+![Highway Gameplay](https://github.com/SlyFox2603/Highway/assets/101604309/10f1b799-0d6e-466b-8a0c-3c1993bb7296)
+
 ## Build Instructions
 The code can be run directly from an IDE assuming you have Python and Pygame installed.
 However, if you want to build an executable file, here is one way to do that:
